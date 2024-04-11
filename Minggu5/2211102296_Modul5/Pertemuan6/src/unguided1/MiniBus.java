@@ -5,8 +5,6 @@ public class MiniBus{
     public Sedan charSedan;
     public String tipe;
 
-
-
     public MiniBus(){
     }
 
